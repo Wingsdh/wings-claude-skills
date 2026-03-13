@@ -1,0 +1,11 @@
+{
+  "name": "wings-claude-skills",
+  "owner": {
+    "name": "wings"
+  },
+  "metadata": {
+    "description": "Wings 的个人 Claude Code 技能集合",
+    "version": "1.0.0"
+  },
+  "plugins": []
+}
